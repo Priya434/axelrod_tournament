@@ -31,7 +31,7 @@ class Duel:
         print()
 
         print(
-            f'{self.stats.total_score[self.player]} | {self.stats.total_score[self.coplayer]}')
+            f'{self.stats.total_score[self.player.name]} | {self.stats.total_score[self.coplayer.name]}')
 
         print()
 
