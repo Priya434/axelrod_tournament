@@ -6,7 +6,7 @@ from tournament import Tournament
 
 
 players = [Cooperator, Defector, TitForTat, RandomPlayer]
-rounds: int = 5
+rounds: int = 200
 multigame: bool = False
 multirounds: int = 5
 
