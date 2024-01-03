@@ -40,6 +40,9 @@ class Duel:
         self.player = player
         self.coplayer = coplayer
 
+        if (self.player.name == self.coplayer.name):
+            self.coplayer.name = f'{self.coplayer.name} 2'
+
         self.duel = Match(self.player, self.coplayer, rounds)
 
         if (multigame):
