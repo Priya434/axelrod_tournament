@@ -35,6 +35,9 @@ class Tournament:
         self.players = players
         self.round_robin = list(distinct_combinations(self.players, r=2))
 
+        for player in players:
+            self.round_robin.append((player, player))
+
         # conduct round robin tournament
         for duel in self.round_robin:
 
