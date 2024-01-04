@@ -9,6 +9,11 @@ Iterated Prisoner's Dilemma and Game Theory [here](https://axelrod.readthedocs.i
 Code in this repository has been inspired by the original
 [Axelrod](https://github.com/Axelrod-Python/Axelrod) python library.
 
+## Contributions
+Contributions to this repository are welcome.
+Please create a seperate branch and open a pull request.
+It's that simple!
+
 ### To Do 
 - [ ] Update documentation
 - [ ] Add "tournament" branch
