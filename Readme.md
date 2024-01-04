@@ -19,5 +19,5 @@ It's that simple!
 
 ### To Do 
 - [ ] Update documentation
-- [ ] Add "tournament" branch
+- [x] Add "tournament" branch
 - [ ] Conduct tournament
