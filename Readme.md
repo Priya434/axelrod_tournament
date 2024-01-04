@@ -10,8 +10,8 @@ Code in this repository has been inspired by the original
 [Axelrod](https://github.com/Axelrod-Python/Axelrod) python library.
 
 ## Contributions
-Contributions to this repository are welcome.
-Please create a seperate branch and open a pull request.
+Contributions to this repository are welcome.<br>
+Please create a seperate branch and open a pull request.<br>
 It's that simple!
 
 ### To Do 
