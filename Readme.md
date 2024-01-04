@@ -3,7 +3,7 @@
 This is an implementation of the original Axelrod
 tournament conducted by Professor Robert Axelrod in 1980.
 
-Veritasium's [this](https://www.youtube.com/watch?v=mScpHTIi-kM) video provides an introduction to Game Theory and the original tournament.<br>
+Veritasium's [this](https://www.youtube.com/watch?v=mScpHTIi-kM) video provides an introduction to The Prisoner's Dilemma and the original tournament.<br>
 It was also the inspiration for this project.
 
 Know more about his research on the 
