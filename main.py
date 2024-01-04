@@ -10,7 +10,7 @@ rounds: int = 200
 multigame: bool = False
 multirounds: int = 5
 
-tournament = Tournament(players)
+tournament = Tournament(players, rounds, multigame, multirounds)
 
 print()
 tournament.display_results()
