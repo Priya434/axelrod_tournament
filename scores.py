@@ -21,8 +21,8 @@ self.action, opponent.action: self.score, opponent.score
 scores = {
     (C, C): (r, r),
     (D, D): (p, p),
-    (D, C): (t, s),
-    (C, D): (s, t)
+    (C, D): (s, t),
+    (D, C): (t, s)
 }
 """
 Player Usage example:
